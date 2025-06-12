@@ -1,4 +1,4 @@
-##### ASCEArt1_Variogram #####
+# ASCEArt1_Variogram #####
 # Compute Variogram From Experimental Data
 This Python code calculates and plots experimental variograms obtained on a plane, x.
 The input data includes:
